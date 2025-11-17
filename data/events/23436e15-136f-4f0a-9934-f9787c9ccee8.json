@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "b1aef037-eea0-4455-b330-e3c70392b851": {
+      "label": "Carmen Andrea Bernal's Oral History",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Race, Gender and Venezuelan Mobility through the Bernal Women' Stories",
+  "av_file_order": [
+    "b1aef037-eea0-4455-b330-e3c70392b851"
+  ],
+  "created_at": "2025-11-17T18:56:51.804Z",
+  "created_by": "yenibel",
+  "updated_at": "2025-11-17T18:56:51.804Z",
+  "updated_by": "yenibel"
+}
