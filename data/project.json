@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "thaisruiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44982945?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "yenibel",
+    "is_private": false,
+    "title": "Racism and Gender Discrimination Project in Venezuela ",
+    "description": "The Racism and Gender Discrimination Project in Venezuela: from the colonial´s times to present, created by Dr. Yenibel Ruiz Mirabal, is born from her findings while researching her maternal family tree, which brings to light the discrimination based on race and gender faced by Venezuelan women in Los Valles del Tuy at the end of the 19th century and the beginning of the 20th century. Los Valles de Tuy were crucial area in Venezuela, not only for agriculture but also as centers where the wealthiest aspects of the colonial economy and agro-export activities were established. This period also saw a significant Afro-Venezuelan presence, both in terms of population density and their valuable contribution to the economic development of the Caracas province (Molina Castro, 2008).\n\nThrough an interview conducted in the 1990s with her maternal grandmother, Carmen Andrea Bernal Piñate, whose mother was of African descent and grandmother was Indigenous, the project explores gender inequalities as well as the possible negotiations for survival.\nDelving deeply into the gender and racial discrimination found within her own genealogy established a connection with her current research on Afro-descendant/non-white Venezuelan migrant women, who form part of the largest exodus in the Americas in contemporary history—stories of women silenced under the narrative of mestizaje and patriarchy.",
+    "language": "en",
+    "slug": "race-gender-discrimination-history-Venezuela",
+    "creator": "yenibel",
+    "authors": "Yenibel Ruiz Mirabal (Journalist / Ph.D. Cultural Studies)",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "thaisruiz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44982945?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-17T18:53:16.035Z",
+    "updated_at": "2025-11-17T18:53:16.035Z"
   }
 }
