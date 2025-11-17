@@ -6,9 +6,15 @@
   },
   "users": [
     {
+      "login_name": "yenibel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44236926?v=4",
+      "admin": true
+    },
+    {
       "login_name": "thaisruiz",
       "avatar_url": "https://avatars.githubusercontent.com/u/44982945?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -34,6 +40,27 @@
       "tags": []
     },
     "created_at": "2025-11-17T18:53:16.035Z",
-    "updated_at": "2025-11-17T18:53:16.035Z"
-  }
+    "updated_at": "2025-11-17T18:53:16.035Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "afea2ad8-3649-4a38-82fc-2847f381dfa3": {
+      "content": [],
+      "created_at": "2025-11-17T18:53:16.054Z",
+      "created_by": "yenibel",
+      "title": "Racism and Gender Discrimination Project in Venezuela ",
+      "updated_at": "2025-11-17T18:53:16.054Z",
+      "updated_by": "yenibel",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "afea2ad8-3649-4a38-82fc-2847f381dfa3"
+  ]
 }
